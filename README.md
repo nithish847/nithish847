@@ -50,7 +50,7 @@
 
 ## 🏆 Achievements & Learning
 - 🏀 National-level **Basketball Player**, led IIIT Kottayam team  
-- 💡 3⭐ on **CodeChef** - 🧩 Built multiple apps using **React + API integration** - 📚 Completed **Foundations of Prompt Engineering (AWS)** - 🚀 Constantly learning new technologies & improving problem-solving
+ - 🧩 Built multiple apps using **React + API integration** - 📚 Completed **Foundations of Prompt Engineering (AWS)** - 🚀 Constantly learning new technologies & improving problem-solving
 
 ---
 
